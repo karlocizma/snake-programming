@@ -1,4 +1,6 @@
-﻿import tkinter as tk
+﻿#SPF and DMARC configurator
+
+import tkinter as tk
 from tkinter import messagebox
 
 def show_spf_help():
